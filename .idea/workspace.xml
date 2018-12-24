@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62bb118d-29d4-4449-8000-cccf376924e8" name="Default Changelist" comment="" />
+    <list default="true" id="62bb118d-29d4-4449-8000-cccf376924e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AtomicKotlin_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AtomicKotlin_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AtomicKotlin_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AtomicKotlin_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Hello, World!/Examples/src/EmptyProgram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Hello, World!/Examples/src/EmptyProgram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 4/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/var   val/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/var   val/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics/var   val/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/var   val/Exercise 2/src/Task.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,14 +67,47 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1613470635">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="kt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Kotlin" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="kt" value="214" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Kotlin" value="214" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Examples/src/EmptyProgram.kt">
+        <entry file="file://$PROJECT_DIR$/Programming Basics/Data Types/Examples/src/Inference.kt">
           <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="88">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="152">
+                  <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+                </MainEditorState>
+              </EduEditorState>
             </state>
           </provider>
         </entry>
@@ -62,12 +115,12 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\lgpc\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\sboo\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -434,7 +487,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4636162316179" />
+        <entry key="$PROJECT_DIR$" value="4636897309361" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1386104427" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3224998535" />
@@ -640,6 +693,24 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Programming Basics/Hello, World!/Examples/src/EmptyProgram.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 4/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/var   val/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Programming Basics/var   val/Exercise 2/src/Task.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="120" />
     <option name="y" value="-25" />
@@ -652,43 +723,96 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Course">
         <subPane>
           <expand>
             <path>
               <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
             </path>
             <path>
               <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
               <item name="Programming Basics" type="76d92c43:SectionNode" />
             </path>
             <path>
               <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
               <item name="Programming Basics" type="76d92c43:SectionNode" />
-              <item name="Hello, World!" type="d53b8fed:LessonNode" />
+              <item name="var   val" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
               <item name="Programming Basics" type="76d92c43:SectionNode" />
-              <item name="Hello, World!" type="d53b8fed:LessonNode" />
+              <item name="var   val" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
+              <item name="Programming Basics" type="76d92c43:SectionNode" />
+              <item name="Data Types" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
+              <item name="Programming Basics" type="76d92c43:SectionNode" />
+              <item name="Data Types" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AtomicKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atomickotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atomickotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Programming Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atomickotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Programming Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="var   val" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atomickotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Programming Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="var   val" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atomickotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Programming Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="var   val" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise 4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../kotlin" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545634472087" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -703,6 +827,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="helloWorld3.TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="AtomicKotlin_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="helloWorld3.TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.helloWorld3.TaskKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -713,22 +857,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545387402402</updated>
+      <workItem from="1545632552791" duration="1956000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1956000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -737,6 +888,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="10" />
+      <window_info active="true" anchor="right" id="Task" visible="true" weight="0.3315565" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -749,14 +902,136 @@
       <window_info anchor="right" id="Maven Projects" order="9" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Examples/src/EmptyProgram.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="88">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="95">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="76">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="95">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="76">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Hello, World!/Exercise 4/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/var   val/Examples/src/AVarIsMutable.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="190">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="114">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="133">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="76">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 4/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="76">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics/Data Types/Examples/src/Inference.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="152">
+              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>

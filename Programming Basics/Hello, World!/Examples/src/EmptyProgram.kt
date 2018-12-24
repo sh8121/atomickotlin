@@ -2,4 +2,5 @@
 
 fun main(args: Array<String>) {
   // Program code here ...
+    println("Hello world")
 }
