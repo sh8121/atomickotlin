@@ -777,9 +777,9 @@
                             </option>
                             <option name="index" value="2" />
                             <option name="name" value="Exercise 1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399533" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -799,19 +799,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="length" value="15" />
                                             <option name="offset" value="55" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="var answer = 42&#10;    // Type mismatch error&#10;//  answer = &quot;unknown&quot;" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package dataTypes&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    TODO()&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -845,9 +845,9 @@
                             </option>
                             <option name="index" value="3" />
                             <option name="name" value="Exercise 2" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399534" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -856,7 +856,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package dataTypes2&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    val s = &quot;Sally&quot; + 5.9&#10;    println(s)&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -903,7 +903,7 @@
                             </option>
                             <option name="index" value="1" />
                             <option name="name" value="Examples" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399536" />
                             <option name="stepikChangeStatus" value="Up to date" />
                             <option name="taskFiles">
@@ -994,9 +994,9 @@
                             </option>
                             <option name="index" value="2" />
                             <option name="name" value="Exercise 1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399537" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1016,19 +1016,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="length" value="5" />
                                             <option name="offset" value="49" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="i * i" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package functions1&#10;&#10;fun getSquare(i: Int): Int = TODO()&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    println(getSquare(2))  // 4&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -1062,9 +1062,9 @@
                             </option>
                             <option name="index" value="3" />
                             <option name="name" value="Exercise 2" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399538" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1084,19 +1084,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="length" value="9" />
                                             <option name="offset" value="74" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="a + b + c" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package functions2&#10;&#10;fun getSum(a: Double, b: Double, c: Double): Double = TODO()&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    println(getSum(1.0, 2.2, 3.4))  // 6.6&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -1130,9 +1130,9 @@
                             </option>
                             <option name="index" value="4" />
                             <option name="name" value="Exercise 3" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399539" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1152,19 +1152,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="length" value="5" />
                                             <option name="offset" value="55" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="s + s" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package functions3&#10;&#10;fun duplicate(s: String): String = TODO()&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    println(duplicate(&quot;abc&quot;))  // abcabc&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -1198,9 +1198,9 @@
                             </option>
                             <option name="index" value="5" />
                             <option name="name" value="Exercise 4" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399542" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1209,7 +1209,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package functions4&#10;&#10;fun foo(): String {&#10;    return &quot;abc&quot;&#10;}&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    println(foo())&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -1256,7 +1256,7 @@
                             </option>
                             <option name="index" value="1" />
                             <option name="name" value="Examples" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399543" />
                             <option name="stepikChangeStatus" value="Up to date" />
                             <option name="taskFiles">
@@ -1411,9 +1411,9 @@
                             </option>
                             <option name="index" value="2" />
                             <option name="name" value="Exercise 1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399544" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1433,19 +1433,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="length" value="128" />
                                             <option name="offset" value="61" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="&#10;        if (number &gt; 0)&#10;            &quot;positive&quot;&#10;        else if (number &lt; 0)&#10;            &quot;negative&quot;&#10;        else&#10;            &quot;zero&quot;" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package ifExpressions1&#10;&#10;fun checkSign(number: Int): String = TODO()&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    println(checkSign(-19))  // negative&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -1479,9 +1479,9 @@
                             </option>
                             <option name="index" value="3" />
                             <option name="name" value="Exercise 2" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399545" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1501,19 +1501,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="length" value="75" />
                                             <option name="offset" value="52" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="&#10;        if (number &gt; 0) number else -number" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package ifExpressions2&#10;&#10;fun abs(number: Int): Int = TODO()&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    println(abs(-19))  // 19&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -1547,9 +1547,9 @@
                             </option>
                             <option name="index" value="4" />
                             <option name="name" value="Exercise 3" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399546" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1569,19 +1569,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="length" value="77" />
                                             <option name="offset" value="68" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="&#10;        if (first &gt; second) first else second" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package ifExpressions3&#10;&#10;fun findMax(first: Int, second: Int): Int = TODO()&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    println(findMax(-1, 4))  // 4&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -1615,7 +1615,7 @@
                             </option>
                             <option name="index" value="5" />
                             <option name="name" value="Exercise 4" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399548" />
                             <option name="stepikChangeStatus" value="Up to date" />
                             <option name="taskFiles">
@@ -1673,7 +1673,7 @@
                             </option>
                             <option name="index" value="1" />
                             <option name="name" value="Examples" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399550" />
                             <option name="stepikChangeStatus" value="Up to date" />
                             <option name="taskFiles">
@@ -1764,9 +1764,9 @@
                             </option>
                             <option name="index" value="2" />
                             <option name="name" value="Exercise 1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399551" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1785,8 +1785,8 @@
                                                 <option name="offset" value="70" />
                                               </MyInitialState>
                                             </option>
-                                            <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="initializedFromDependency" value="true" />
+                                            <option name="length" value="77" />
                                             <option name="offset" value="70" />
                                             <option name="placeholderDependency">
                                               <AnswerPlaceholderDependency>
@@ -1801,7 +1801,7 @@
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="&#10;        if (first &gt; second) first else second" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
@@ -1817,19 +1817,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
-                                            <option name="offset" value="153" />
+                                            <option name="length" value="58" />
+                                            <option name="offset" value="261" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="&#10;    val max = findMax(first, second)&#10;    println(&quot;The maximum between $first and $second is $max.&quot;)" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package stringTemplates1&#10;&#10;fun findMax(first: Int, second: Int): Int = TODO()&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    val first = 17&#10;    val second = 31&#10;    TODO()&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -1863,9 +1863,9 @@
                             </option>
                             <option name="index" value="3" />
                             <option name="name" value="Exercise 2" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="399552" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -1885,19 +1885,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="length" value="30" />
                                             <option name="offset" value="100" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="&quot;$index. [$status] $message\n&quot;" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package stringTemplates2&#10;&#10;fun record(index: Int, status: String, message: String): String =&#10;        TODO()&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    print(record(1, &quot;OK&quot;, &quot;Everything is fine.&quot;))&#10;    print(record(2, &quot;Fail&quot;, &quot;Something has broken.&quot;))&#10;}&#10;&#10;/* Output:&#10;1. [OK] Everything is fine.&#10;2. [Fail] Something has broken.&#10;*/" />
                                       <option name="trackChanges" value="true" />
