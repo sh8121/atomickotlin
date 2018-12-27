@@ -4,8 +4,10 @@ fun bmiStatusInt(
   lbs: Int,
   height: Int
 ): String {
+  println(lbs / (height * height))
   val bmi =
     lbs / (height * height) * 703.07 // [1]
+  println(bmi)
   return if (bmi < 18.5) "Underweight"
     else if (bmi < 25) "Normal weight"
     else "Overweight"

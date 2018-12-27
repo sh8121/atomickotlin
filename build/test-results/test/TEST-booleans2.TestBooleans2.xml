@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="booleans2.TestBooleans2" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-12-27T12:22:21" hostname="DESKTOP-DCV1T3D" time="0.005">
+  <properties/>
+  <testcase name="testAnd1" classname="booleans2.TestBooleans2" time="0.002"/>
+  <testcase name="testAnd2" classname="booleans2.TestBooleans2" time="0.0"/>
+  <testcase name="testAnd3" classname="booleans2.TestBooleans2" time="0.0"/>
+  <testcase name="testAnd4" classname="booleans2.TestBooleans2" time="0.0"/>
+  <testcase name="testOr1" classname="booleans2.TestBooleans2" time="0.0"/>
+  <testcase name="testOr2" classname="booleans2.TestBooleans2" time="0.0"/>
+  <testcase name="testOr3" classname="booleans2.TestBooleans2" time="0.0"/>
+  <testcase name="testOr4" classname="booleans2.TestBooleans2" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

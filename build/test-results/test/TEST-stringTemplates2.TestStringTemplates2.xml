@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="stringTemplates2.TestStringTemplates2" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-12-25T23:36:34" hostname="D-SEL-00650739" time="0.003">
-  <properties/>
-  <testcase name="testRecord1" classname="stringTemplates2.TestStringTemplates2" time="0.003"/>
-  <testcase name="testRecord2" classname="stringTemplates2.TestStringTemplates2" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

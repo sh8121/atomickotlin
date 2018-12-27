@@ -1,7 +1,7 @@
 package numberTypes4
 
 fun convertToMilliseconds(hours: Int, minutes: Int, seconds: Int): Long =
-        TODO()
+        ((hours * 60L + minutes) * 60 + seconds) * 1000
 
 fun main(args: Array<String>) {
     println(convertToMilliseconds(1, 30, 0))
