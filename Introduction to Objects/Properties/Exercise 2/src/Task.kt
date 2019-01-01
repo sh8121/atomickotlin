@@ -1,24 +1,41 @@
 package properties2
 
 class Robot {
-    /*TODO*/
+    var x = 0
+    var y = 0
+    val fieldSize = 100
+
+    fun crossBoundary(coordinate: Int) : Int{
+        val inBounds = coordinate % fieldSize
+        return if(inBounds < 0){
+            inBounds + fieldSize
+        }
+        else{
+            inBounds
+        }
+    }
+
     fun goRight(steps: Int) {
-        TODO()
+        x += steps
+        x = crossBoundary(x)
     }
 
     fun goLeft(steps: Int) {
-        TODO()
+        x -= steps
+        x = crossBoundary(x)
     }
 
     fun goDown(steps: Int) {
-        TODO()
+        y += steps
+        y = crossBoundary(y)
     }
 
     fun goUp(steps: Int) {
-        TODO()
+        y -= steps
+        y = crossBoundary(y)
     }
 
-    fun getLocation(): String = TODO()
+    fun getLocation(): String = "($x,$y)"
 }
 
 fun main(args: Array<String>) {

@@ -1,7 +1,12 @@
 package creatingClasses1
 
 fun isPalindrome(s: SimpleString): Boolean {
-    TODO()
+    for(i in 0..(s.length() - 1)){
+        if(s.get(i) != s.get(s.length() - 1 - i)){
+            return false
+        }
+    }
+    return true
 }
 
 fun main(args: Array<String>) {

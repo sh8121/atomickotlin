@@ -1,25 +1,32 @@
 package properties1
 
 class Robot {
-    /*TODO*/
+    var x = 0
+    var y = 0
 
     fun goRight(steps: Int) {
-        TODO()
+        x += steps
     }
 
     fun goLeft(steps: Int) {
-        TODO()
+        x -= steps
+        if(x < 0){
+            x = 0
+        }
     }
 
     fun goDown(steps: Int) {
-        TODO()
+        y += steps
     }
 
     fun goUp(steps: Int) {
-        TODO()
+        y -= steps
+        if(y < 0){
+            y = 0
+        }
     }
 
-    fun getLocation(): String = TODO()
+    fun getLocation(): String = "($x,$y)"
 }
 
 fun main(args: Array<String>) {

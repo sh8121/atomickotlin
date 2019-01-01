@@ -1,7 +1,13 @@
 package repetitionwithwhile1
 
 fun sum(number: Int): Int {
-    TODO()
+    var sum = 0
+    var i = 1
+    while(i <= number){
+        sum += i
+        i++
+    }
+    return sum
 }
 
 fun main(args: Array<String>) {

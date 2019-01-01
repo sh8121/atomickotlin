@@ -4,7 +4,10 @@ fun countDigits(number: Int, digit: Int): Int {
     var worker = number
     var occurrences = 0
     while (worker > 0) {
-        TODO()
+        val rest = worker % 10
+        if(rest == digit)
+            occurrences++
+        worker /= 10
     }
     return occurrences
 }
