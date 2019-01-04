@@ -1,26 +1,55 @@
 package constrainingVisibility2
 
-class Robot(/*TODO*/) {
+class Robot(
+        private val fieldSize: Int,
+        private var x: Int,
+        private var y: Int
+) {
+    private fun crossBoundary(coordinate: Int): Int {
+        val inBounds = coordinate % fieldSize
+        return if (inBounds < 0) {
+            fieldSize + inBounds
+        } else {
+            inBounds
+        }
+    }
+
+    private fun checkSteps(steps: Int): Boolean {
+        if (steps <= 0) {
+            println("Incorrect input: $steps, the number of steps should be positive.")
+            return true
+        }
+        return false
+    }
+
 
     fun goRight(steps: Int) {
-        TODO()
+        if (checkSteps(steps)) return
+        x += steps
+        x = crossBoundary(x)
     }
 
     fun goLeft(steps: Int) {
-        TODO()
+        if (checkSteps(steps)) return
+        x -= steps
+        x = crossBoundary(x)
     }
 
     fun goDown(steps: Int) {
-        TODO()
+        if (checkSteps(steps)) return
+        y += steps
+        y = crossBoundary(y)
     }
 
     fun goUp(steps: Int) {
-        TODO()
+        if (checkSteps(steps)) return
+        y -= steps
+        y = crossBoundary(y)
     }
 
-    fun getLocation(): String = TODO()
+    fun getLocation(): String = "($x,$y)"
 
-    /*TODO*/
+    override fun toString() = "Robot(x=$x,y=$y)"
 }
 
 /*

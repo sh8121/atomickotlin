@@ -7,81 +7,108 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AtomicKotlin_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AtomicKotlin_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AtomicKotlin_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/AtomicKotlin_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 4/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 3/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 4/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 5/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 5/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 3/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 4/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 3/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 4/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 3/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 4/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 3/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 4/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 5/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 5/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creatingClasses1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creatingClasses1/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/creatingClasses2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/creatingClasses2/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/expressionsandStatements1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/expressionsandStatements1/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/loopingandRanges1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/loopingandRanges1/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/loopingandRanges3/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/loopingandRanges3/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/loopingandRanges4/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/loopingandRanges4/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere1/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere2/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere3/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere3/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere4/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere4/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere5/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/objectsEverywhere5/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile1/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile2/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile3/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile3/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile4/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/repetitionwithwhile4/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/summary1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/summary1/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/summary2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/summary2/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/summary3/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/summary3/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/summary4/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/summary4/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/theinKeyword1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/theinKeyword1/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/theinKeyword2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/theinKeyword2/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/theinKeyword3/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/theinKeyword3/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/theinKeyword4/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/theinKeyword4/TaskKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/theinKeyword5/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/theinKeyword5/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 4/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Imports   Packages/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Imports   Packages/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Imports   Packages/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Imports   Packages/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 4/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constrainingVisibility1/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/constrainingVisibility1/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constrainingVisibility2/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/constrainingVisibility2/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constrainingVisibility4/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/constrainingVisibility4/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constructors1/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/constructors1/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constructors2/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/constructors2/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constructors3/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/constructors3/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constructors3/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/constructors3/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/exceptions1/TaskKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/exceptions1/TaskKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/exceptions1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/exceptions1/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/importsandPackages2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/importsandPackages2/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/properties3/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/properties3/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/testing1/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/testing1/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/testing2/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/testing2/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/test/constrainingVisibility2/TestRobotIncorrectInput$RobotHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/test/constrainingVisibility2/TestRobotIncorrectInput$RobotHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/test/constructors1/TestRobotClassArguments$RobotHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/test/constructors1/TestRobotClassArguments$RobotHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/test/constructors2/TestRobotToString$RobotHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/test/constructors2/TestRobotToString$RobotHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/test/testing1/TestTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/test/testing1/TestTesting.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
@@ -94,34 +121,29 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/booleans2.TestBooleans2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/properties2.TestRobotTeleportation.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/booleans2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-booleans2.TestBooleans2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/properties2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-properties2.TestRobotTeleportation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/ASCIIMapKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ASCIIMapKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/AVarIsMutableKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AVarIsMutableKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/AddingIntToCharKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AddingIntToCharKt.class" afterDir="false" />
@@ -922,30 +944,32 @@
     <session id="-1613470635">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="kt" value="48" />
+          <entry key="kt" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="48" />
+          <entry key="Kotlin" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="634" />
+          <entry key="kt" value="3504" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="634" />
+          <entry key="Kotlin" value="3504" />
         </counts>
       </usages-collector>
     </session>
@@ -987,10 +1011,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 3/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Examples/src/Counter.kt">
           <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="154">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="304">
+                  <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+                </MainEditorState>
+              </EduEditorState>
             </state>
           </provider>
         </entry>
@@ -1014,7 +1042,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\lgpc\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\sboo\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -1381,7 +1409,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4636162419777" />
+        <entry key="$PROJECT_DIR$" value="4636897309361" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1386104427" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3224998535" />
@@ -1590,35 +1618,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programming Basics/Data Types/Exercise 2/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Functions/Exercise 1/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Functions/Exercise 2/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Functions/Exercise 3/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Functions/Exercise 4/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 1/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 2/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 3/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 1/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 2/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 3/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/String Templates/Exercise 4/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/IntegerMath.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/UsingLongs.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 1/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 2/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 3/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 4/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Number Types/Exercise 5/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Booleans/Examples/src/Booleans2.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Booleans/Exercise 1/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Booleans/Exercise 2/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 1/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 2/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 3/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 4/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/IndexIntoString.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 1/src/Task.kt" />
-        <option value="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 3/src/Task.kt" />
         <option value="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 4/src/Task.kt" />
         <option value="$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 5/src/Task.kt" />
         <option value="$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 1/src/Task.kt" />
@@ -1641,6 +1640,35 @@
         <option value="$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 4/src/Task.kt" />
         <option value="$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 1/src/Task.kt" />
         <option value="$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 3/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 3/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 4/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Imports   Packages/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Imports   Packages/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Testing/Examples/src/TDDFail.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Testing/Examples/src/TDDStillFails.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/MutListIsList.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 3/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Sets/Examples/src/Sets.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 3/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 3/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 4/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -1651,8 +1679,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="120" />
-    <option name="y" value="-25" />
+    <option name="x" value="147" />
+    <option name="y" value="-6" />
     <option name="width" value="960" />
     <option name="height" value="1020" />
   </component>
@@ -1662,49 +1690,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Course">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
-            </path>
-            <path>
-              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
-              <item name="Programming Basics" type="76d92c43:SectionNode" />
-            </path>
-            <path>
-              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
-              <item name="Introduction to Objects" type="76d92c43:SectionNode" />
-            </path>
-            <path>
-              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
-              <item name="Introduction to Objects" type="76d92c43:SectionNode" />
-              <item name="Properties" type="d53b8fed:LessonNode" />
-            </path>
-            <path>
-              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
-              <item name="Introduction to Objects" type="76d92c43:SectionNode" />
-              <item name="Properties" type="d53b8fed:LessonNode" />
-              <item name="src" type="4928525d:TaskNode" />
-            </path>
-            <path>
-              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
-              <item name="AtomicKotlin" type="ed842865:CourseNode" />
-              <item name="Introduction to Objects" type="76d92c43:SectionNode" />
-              <item name="Properties" type="d53b8fed:LessonNode" />
-              <item name="src" type="4928525d:TaskNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1742,12 +1727,57 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
+              <item name="Introduction to Objects" type="76d92c43:SectionNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
+              <item name="Introduction to Objects" type="76d92c43:SectionNode" />
+              <item name="Maps" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
+              <item name="Introduction to Objects" type="76d92c43:SectionNode" />
+              <item name="Maps" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
+              <item name="Introduction to Objects" type="76d92c43:SectionNode" />
+              <item name="Property Accessors" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="AtomicKotlin" type="a264ea2a:RootNode" />
+              <item name="atomickotlin" type="ed842865:CourseNode" />
+              <item name="Introduction to Objects" type="76d92c43:SectionNode" />
+              <item name="Property Accessors" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546336139560" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546566454541" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
@@ -1764,7 +1794,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.expressionsandStatements2.TaskKt">
+  <component name="RunManager" selected="Kotlin.stacktrace.TaskKt">
     <configuration name="expressionsandStatements2.TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="AtomicKotlin_main" />
       <option name="VM_PARAMETERS" />
@@ -1791,6 +1821,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="stacktrace.TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="AtomicKotlin_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="stacktrace.TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="theinKeyword5.TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="AtomicKotlin_main" />
       <option name="VM_PARAMETERS" />
@@ -1808,9 +1851,11 @@
       <item itemvalue="Kotlin.helloWorld3.TaskKt" />
       <item itemvalue="Kotlin.theinKeyword5.TaskKt" />
       <item itemvalue="Kotlin.expressionsandStatements2.TaskKt" />
+      <item itemvalue="Kotlin.stacktrace.TaskKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.stacktrace.TaskKt" />
         <item itemvalue="Kotlin.expressionsandStatements2.TaskKt" />
         <item itemvalue="Kotlin.theinKeyword5.TaskKt" />
         <item itemvalue="Kotlin.helloWorld3.TaskKt" />
@@ -1829,26 +1874,29 @@
       <updated>1545387402402</updated>
       <workItem from="1545632552791" duration="1956000" />
       <workItem from="1545776321344" duration="4352000" />
+      <workItem from="1546384327030" duration="4139000" />
+      <workItem from="1546389708079" duration="5578000" />
+      <workItem from="1546492910569" duration="4794000" />
+      <workItem from="1546554214067" duration="11435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6308000" />
+    <option name="totallyTimeSpent" value="32254000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Compilation Error" weight="0.32859176" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32859176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275488" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997155" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1858,11 +1906,10 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="10" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="11" weight="0.329718" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32859176" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3275488" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Output" order="14" weight="0.32859176" />
-      <window_info anchor="right" x="0" y="0" width="675" height="638" id="Documentation" weight="0.3294271" />
-      <window_info anchor="right" id="Kotlin Bytecode" weight="0.3294271" />
+      <window_info anchor="bottom" id="Compilation Error" order="15" weight="0.32859176" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1875,6 +1922,8 @@
       <window_info anchor="right" id="Maven Projects" order="9" />
       <window_info active="true" anchor="right" id="Task" order="10" visible="true" weight="0.3315565" />
       <window_info anchor="right" id="Database" order="11" />
+      <window_info anchor="right" x="0" y="0" width="675" height="638" id="Documentation" order="12" weight="0.3294271" />
+      <window_info anchor="right" id="Kotlin Bytecode" order="13" weight="0.3294271" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1907,360 +1956,536 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Examples/src/UnitReturnType.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Examples/src/IntroducingNull.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="330">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="95">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 1/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Examples/src/ToIntException.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="110">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="171">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 2/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 1/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="132">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="380">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#21#109#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/BasicFunctions.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 2/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="328">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Booleans.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/ListUsefulFunction.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="328">
-          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/DoWhile.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/Lists.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="220">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="304">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Hello.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/MultipleListRefs.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="154">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="190">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/IfExpression.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/MutListIsList.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="198">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="209">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/IfResult.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/MutableList.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="88">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Membership.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="328">
-          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/kotlin/collections/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="104" column="56" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/NumberTypes.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/OutOfBounds.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="220">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="152">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Overflow.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/ParameterizedReturn.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="110">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="247">
+              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/RangeOfInt.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/ParameterizedTypes.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="132">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="266">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/StrTemplates.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="88">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.51/649a609725b857dd285cf69d49d4f1f77335076e/kotlin-stdlib-1.2.51-sources.jar!/kotlin/Iterator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/StringIteration.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 1/src/IntList.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="132">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="38">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/ThreeQuotes.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 1/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="328">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="323">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Truncation.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 2/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="285">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/UnitReturn.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 3/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="66">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="285">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/While.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 4/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="220">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="95">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 1/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Examples/src/ListOf.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="242">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="114">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 2/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Examples/src/SpreadOperator.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="132">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 3/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Examples/src/TwoFunctionsWithVarargs.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="88">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="114">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 4/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Examples/src/VarargLikeList.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="308">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="133">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/Conversion.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Examples/src/VarargSum.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="242">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="228">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/IntRanges.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Examples/src/VariableArgLists.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="242">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="114">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/NumberConversions.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Exercise 1/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="264">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="209">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/RangeSum.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Exercise 2/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="132">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="190">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/Strings.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/vararg Arguments/Exercise 3/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="220">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="57">
+              <caret line="3" column="55" lean-forward="true" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 1/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/kotlin/collections/MutableCollections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="56" column="55" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 2/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="176">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+    <entry file="file://$PROJECT_DIR$/util/src/AtomicTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 3/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Examples/src/MutableSet.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="374">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="190">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 4/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Examples/src/RemoveDuplicates.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="132">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="171">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 5/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Examples/src/Sets.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="426">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Examples/src/Animals.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="396">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="1329" column="33" selection-start-line="1329" selection-start-column="33" selection-end-line="1329" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Examples/src/Cat.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 1/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="399">
+              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Examples/src/Dog.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 2/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="152">
+              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Examples/src/Hamster.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 3/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="114">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 1/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/ContactMap.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="352">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="380">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 2/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/GetValue.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="352">
-          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="133">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 3/src/SimpleString.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="308">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/kotlin/ioH.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 3/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/kotlin/util/Tuples.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="79" column="12" lean-forward="true" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 4/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="242">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.51/649a609725b857dd285cf69d49d4f1f77335076e/kotlin-stdlib-1.2.51-sources.jar!/kotlin/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="345" column="21" selection-start-line="345" selection-start-column="21" selection-end-line="345" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/AnUnchangingVar.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="264">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/kotlin/collections/Maps.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="287" column="75" selection-start-line="287" selection-start-column="75" selection-end-line="287" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/ChangingAVal.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/Maps.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="264">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="494">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/Cup.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/MutableMaps.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="308">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="228">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/Cup2.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/ReadOnlyMaps.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="308">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="247">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/References.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 1/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="308">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="342">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/TopLevelProperty.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 2/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="549">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 1/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 3/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="213">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="532">
+              <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 2/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 4/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="133">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 3/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Examples/src/Counter.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="154">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="304">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </MainEditorState>
+          </EduEditorState>
         </state>
       </provider>
     </entry>

@@ -3,11 +3,13 @@ package properties3
 class Counter {
     var value = 0
 
+    private val counter = 10
+
     fun inc() {
-        value += 10
+        value += counter
     }
 
     fun dec() {
-        value -= 10
+        value -= counter
     }
 }

@@ -3,7 +3,11 @@ package lists3
 import atomictest.eq
 
 fun checkAnagrams(s1: String, s2: String): Boolean {
-    TODO()
+    var s1List = s1.toList()
+    var s2List = s2.toList()
+    s1List = s1List.sorted()
+    s2List = s2List.sorted()
+    return s1List == s2List
 }
 
 fun main(args: Array<String>) {

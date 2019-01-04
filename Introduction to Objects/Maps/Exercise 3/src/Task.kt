@@ -11,18 +11,18 @@ class Hamster(val name: String) {
 
 class Cage(private val maxCapacity: Int) {
     private val hamsters: MutableMap<String, Hamster> =
-            TODO()
+            mutableMapOf()
 
     fun put(hamster: Hamster): Boolean =
             if (hamsters.size == maxCapacity)
                 false
             else {
-                TODO()
+                hamsters[hamster.name] = hamster
                 true
             }
 
     fun takeHamsterByName(name: String): Hamster =
-            TODO()
+            hamsters.getValue(name)
 }
 
 fun main(args: Array<String>) {
