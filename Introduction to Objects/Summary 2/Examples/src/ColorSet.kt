@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
 
   val mSet = colorSet.toMutableSet()   // [4]
   mSet -= "Blue"
-  mSet += "Red"                        // [5]
+  mSet +="Red"                        // [5]
   mSet eq
     setOf("Yellow", "Green", "Red")
 

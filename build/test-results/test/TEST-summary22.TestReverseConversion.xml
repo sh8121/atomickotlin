@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="summary22.TestReverseConversion" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-01-08T23:37:47" hostname="D-SEL-00650739" time="0.016">
+  <properties/>
+  <testcase name="test01Sample1" classname="summary22.TestReverseConversion" time="0.014"/>
+  <testcase name="test02Sample2" classname="summary22.TestReverseConversion" time="0.0"/>
+  <testcase name="test04Sample4" classname="summary22.TestReverseConversion" time="0.0"/>
+  <testcase name="test05VII" classname="summary22.TestReverseConversion" time="0.0"/>
+  <testcase name="test06XXXIX" classname="summary22.TestReverseConversion" time="0.0"/>
+  <testcase name="test07DCLXXXIII" classname="summary22.TestReverseConversion" time="0.0"/>
+  <testcase name="test08MCMXCIX" classname="summary22.TestReverseConversion" time="0.0"/>
+  <testcase name="test09CDXCIV" classname="summary22.TestReverseConversion" time="0.0"/>
+  <testcase name="test0Sample3" classname="summary22.TestReverseConversion" time="0.0"/>
+  <testcase name="test10MDLV" classname="summary22.TestReverseConversion" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

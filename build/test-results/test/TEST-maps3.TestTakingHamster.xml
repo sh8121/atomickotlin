@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="maps3.TestTakingHamster" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-01-04T01:53:34" hostname="D-SEL-00650739" time="0.006">
-  <properties/>
-  <testcase name="test1SampleSuccess" classname="maps3.TestTakingHamster" time="0.006"/>
-  <testcase name="test2SampleNoHamster" classname="maps3.TestTakingHamster" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
