@@ -9,8 +9,14 @@ fun main(args: Array<String>) {
     var j = 0
     do {
       j += 1
-      if (j == 3) continue@outer
-      if (i*j == 15) break@outer
+      if (j == 3){
+        println("continue")
+        continue@outer
+      }
+      if (i*j == 15){
+        println("break")
+        break@outer
+      }
       nums.add(i*j)
     } while(j < 10)
   } while(i < 4)
