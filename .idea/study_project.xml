@@ -2,12 +2,9 @@
 <project version="4">
   <component name="StudySettings">
     <StudyTaskManager>
-      <option name="VERSION" value="11" />
-      <option name="myUserTests">
-        <map />
-      </option>
       <option name="course">
         <RemoteCourse>
+          <option name="adaptive" value="false" />
           <option name="additionalMaterialsUpdateDate" value="1539000408000" />
           <option name="authors">
             <list />
@@ -12328,9 +12325,9 @@
                             </option>
                             <option name="index" value="2" />
                             <option name="name" value="Exercise 1" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Failed" />
                             <option name="stepId" value="497837" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -12351,12 +12348,12 @@
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
                                             <option name="length" value="0" />
-                                            <option name="offset" value="75" />
+                                            <option name="offset" value="229" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="" />
                                             <option name="possibleAnswer" value="&#10;        val hours: Int = 0,&#10;        val minutes: Int = 0,&#10;        val seconds: Int = 0,&#10;        val nanoseconds: Int = 0" />
                                             <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="status" value="Failed" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
@@ -12372,13 +12369,13 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
-                                            <option name="offset" value="110" />
+                                            <option name="length" value="40" />
+                                            <option name="offset" value="264" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="&#10;            ((hours * 60 + minutes) * 60) + seconds" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Failed" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
@@ -12394,19 +12391,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
-                                            <option name="offset" value="148" />
+                                            <option name="length" value="44" />
+                                            <option name="offset" value="336" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="&#10;            (toSecondOfDay() * 1000000000L) + nanoseconds" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Failed" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package namedandDefaultArguments1&#10;&#10;import atomictest.eq&#10;&#10;class SimpleTime(&#10;) {&#10;    fun toSecondOfDay(): Int = TODO()&#10;&#10;    fun toNanoOfDay(): Long = TODO()&#10;}&#10;&#10;/*&#10;fun main(args: Array&lt;String&gt;) {&#10;    val noon = SimpleTime(12)&#10;    noon.toSecondOfDay() eq 12 * 60 * 60&#10;&#10;    val halfPastSeven = SimpleTime(hours = 6, minutes = 30)&#10;    halfPastSeven.toNanoOfDay() eq 23400000000000&#10;&#10;    val nanosecond = SimpleTime(nanoseconds = 1)&#10;    nanosecond.toNanoOfDay() eq 1&#10;&#10;    val second = SimpleTime(seconds = 1)&#10;    second.toNanoOfDay() eq 1000000000&#10;}&#10;*/" />
                                       <option name="trackChanges" value="true" />
@@ -12440,9 +12437,9 @@
                             </option>
                             <option name="index" value="3" />
                             <option name="name" value="Exercise 2" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="497838" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -12462,19 +12459,19 @@
                                               </MyInitialState>
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
-                                            <option name="length" value="6" />
+                                            <option name="length" value="54" />
                                             <option name="offset" value="95" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="TODO()" />
                                             <option name="possibleAnswer" value="&#10;        s.trimMargin(&quot;// &quot;).lines().joinToString(&quot;; &quot;)" />
-                                            <option name="selected" value="false" />
-                                            <option name="status" value="Unchecked" />
+                                            <option name="selected" value="true" />
+                                            <option name="status" value="Solved" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package namedandDefaultArguments2&#10;&#10;import atomictest.eq&#10;&#10;fun joinComments(s: String): String = TODO()&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    val s = &quot;&quot;&quot;&#10;        // first&#10;        // second&#10;        // third&#10;        &quot;&quot;&quot;&#10;    joinComments(s) eq &quot;first; second; third&quot;&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -12508,9 +12505,9 @@
                             </option>
                             <option name="index" value="4" />
                             <option name="name" value="Exercise 3" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="497839" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -12519,7 +12516,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package namedandDefaultArguments3&#10;&#10;import atomictest.eq&#10;&#10;fun foo(i: Int, s: String) = &quot;(i = $i, s = $s)&quot;&#10;&#10;fun bar(i: Int, s: String) = &quot;(i = $i, s = $s)&quot;&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    foo(i = 1, s = &quot;abc&quot;) eq &quot;(i = 1, s = abc)&quot;&#10;    foo(2, &quot;def&quot;) eq &quot;(i = 2, s = def)&quot;&#10;&#10;    bar(i = 1, s = &quot;abc&quot;) eq &quot;(i = 1, s = abc)&quot;&#10;    bar(2, &quot;def&quot;) eq &quot;(i = 2, s = def)&quot;&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -12566,9 +12563,9 @@
                             </option>
                             <option name="index" value="1" />
                             <option name="name" value="Examples" />
-                            <option name="status" value="Unchecked" />
+                            <option name="status" value="Failed" />
                             <option name="stepId" value="497840" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/MemberVsExtension.kt">
@@ -12609,7 +12606,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/OverloadingAdd.kt" />
                                       <option name="text" value="// Overloading/OverloadingAdd.kt&#10;import atomictest.eq&#10;&#10;fun addInt(i: Int, j: Int) = i + j&#10;fun addDouble(i: Double, j: Double) = i + j&#10;&#10;fun add(i: Int, j: Int) = i + j&#10;fun add(i: Double, j: Double) = i + j&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;  addInt(5, 6) eq add(5, 6)&#10;  addDouble(56.23, 44.77) eq&#10;    add(56.23, 44.77)&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -12675,7 +12672,7 @@
                             <option name="name" value="Exercise 1" />
                             <option name="status" value="Unchecked" />
                             <option name="stepId" value="497841" />
-                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
                               <map>
                                 <entry key="src/Task.kt">
@@ -12698,7 +12695,7 @@
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
                                             <option name="length" value="0" />
-                                            <option name="offset" value="489" />
+                                            <option name="offset" value="490" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="" />
                                             <option name="possibleAnswer" value="separator, prefix, &quot;&quot;" />
@@ -12722,7 +12719,7 @@
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
                                             <option name="length" value="0" />
-                                            <option name="offset" value="578" />
+                                            <option name="offset" value="579" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="" />
                                             <option name="possibleAnswer" value="separator, &quot;&quot;, &quot;&quot;" />
@@ -12746,7 +12743,7 @@
                                             </option>
                                             <option name="initializedFromDependency" value="false" />
                                             <option name="length" value="0" />
-                                            <option name="offset" value="650" />
+                                            <option name="offset" value="651" />
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="" />
                                             <option name="possibleAnswer" value="&quot;, &quot;, &quot;&quot;, &quot;&quot;" />
@@ -12757,7 +12754,7 @@
                                           </AnswerPlaceholder>
                                         </list>
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/Task.kt" />
                                       <option name="text" value="package overloading1&#10;&#10;import atomictest.eq&#10;&#10;fun List&lt;Int&gt;.joinToString(&#10;  separator: String = &quot;, &quot;,&#10;  prefix: String = &quot;&quot;,&#10;  postfix: String = &quot;&quot;&#10;): String {&#10;    return joinTo(StringBuilder(), separator, prefix, postfix).toString()&#10;}&#10;&#10;fun List&lt;Int&gt;.myJoinToString(&#10;  separator: String,&#10;  prefix: String,&#10;  postfix: String&#10;): String {&#10;    return joinToString(separator, prefix, postfix)&#10;}&#10;&#10;fun List&lt;Int&gt;.myJoinToString(separator: String, prefix: String): String {&#10;    return myJoinToString()&#10;}&#10;&#10;fun List&lt;Int&gt;.myJoinToString(separator: String): String {&#10;    return myJoinToString()&#10;}&#10;&#10;fun List&lt;Int&gt;.myJoinToString(): String {&#10;    return myJoinToString()&#10;}&#10;&#10;/*&#10;fun List&lt;Int&gt;.myJoinToString(prefix: String, postfix: String): String {&#10;    return TODO()&#10;}&#10;*/&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;    val list = listOf(1, 2, 3)&#10;    list.myJoinToString() eq &quot;1, 2, 3&quot;&#10;    list.myJoinToString(&quot;|&quot;) eq &quot;1|2|3&quot;&#10;    list.myJoinToString(&quot;..&quot;, &quot;List: &quot;) eq &quot;List: 1..2..3&quot;&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -21282,6 +21279,10 @@
             </list>
           </option>
         </RemoteCourse>
+      </option>
+      <option name="VERSION" value="11" />
+      <option name="myUserTests">
+        <map />
       </option>
     </StudyTaskManager>
   </component>

@@ -3,13 +3,17 @@ package namedandDefaultArguments1
 import atomictest.eq
 
 class SimpleTime(
+        private val hours: Int = 0,
+        private val minutes: Int = 0,
+        private val seconds: Int = 0,
+        private val nanoseconds: Long = 0
 ) {
-    fun toSecondOfDay(): Int = TODO()
+    fun toSecondOfDay(): Int = hours * 60 * 60 + minutes * 60 + seconds
 
-    fun toNanoOfDay(): Long = TODO()
+    fun toNanoOfDay(): Long = toSecondOfDay() * 1000000000L +  nanoseconds
 }
 
-/*
+
 fun main(args: Array<String>) {
     val noon = SimpleTime(12)
     noon.toSecondOfDay() eq 12 * 60 * 60
@@ -23,4 +27,3 @@ fun main(args: Array<String>) {
     val second = SimpleTime(seconds = 1)
     second.toNanoOfDay() eq 1000000000
 }
-*/

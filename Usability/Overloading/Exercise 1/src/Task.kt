@@ -16,7 +16,7 @@ fun List<Int>.myJoinToString(
   postfix: String
 ): String {
     return joinToString(separator, prefix, postfix)
-}
+}+
 
 fun List<Int>.myJoinToString(separator: String, prefix: String): String {
     return myJoinToString()
