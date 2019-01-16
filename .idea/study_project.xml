@@ -2,9 +2,12 @@
 <project version="4">
   <component name="StudySettings">
     <StudyTaskManager>
+      <option name="VERSION" value="11" />
+      <option name="myUserTests">
+        <map />
+      </option>
       <option name="course">
         <RemoteCourse>
-          <option name="adaptive" value="false" />
           <option name="additionalMaterialsUpdateDate" value="1539000408000" />
           <option name="authors">
             <list />
@@ -12563,7 +12566,7 @@
                             </option>
                             <option name="index" value="1" />
                             <option name="name" value="Examples" />
-                            <option name="status" value="Failed" />
+                            <option name="status" value="Solved" />
                             <option name="stepId" value="497840" />
                             <option name="stepikChangeStatus" value="Info and Content changed" />
                             <option name="taskFiles">
@@ -12638,7 +12641,7 @@
                                       <option name="answerPlaceholders">
                                         <list />
                                       </option>
-                                      <option name="highlightErrors" value="false" />
+                                      <option name="highlightErrors" value="true" />
                                       <option name="name" value="src/WithoutDefaultArguments.kt" />
                                       <option name="text" value="// Overloading/WithoutDefaultArguments.kt&#10;package withoutdefaultarguments&#10;import atomictest.eq&#10;&#10;fun f(n: Int) = n + 373&#10;fun f() = f(0)&#10;&#10;fun main(args: Array&lt;String&gt;) {&#10;  f() eq 373&#10;}" />
                                       <option name="trackChanges" value="true" />
@@ -12699,7 +12702,7 @@
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="" />
                                             <option name="possibleAnswer" value="separator, prefix, &quot;&quot;" />
-                                            <option name="selected" value="false" />
+                                            <option name="selected" value="true" />
                                             <option name="status" value="Unchecked" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
@@ -12723,7 +12726,7 @@
                                             <option name="placeholderDependency" />
                                             <option name="placeholderText" value="" />
                                             <option name="possibleAnswer" value="separator, &quot;&quot;, &quot;&quot;" />
-                                            <option name="selected" value="false" />
+                                            <option name="selected" value="true" />
                                             <option name="status" value="Unchecked" />
                                             <option name="studentAnswer" />
                                             <option name="useLength" value="true" />
@@ -21279,10 +21282,6 @@
             </list>
           </option>
         </RemoteCourse>
-      </option>
-      <option name="VERSION" value="11" />
-      <option name="myUserTests">
-        <map />
       </option>
     </StudyTaskManager>
   </component>
